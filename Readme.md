@@ -92,7 +92,7 @@ Ensure you have the following installed:
 
 ## 👥 Contact
 
-For inquiries, support, or feedback, please contact **Vaibhav Kothari** at:  
-📧 **[vaibhavkothari50@gmail.com](mailto:vaibhavkothari50@gmail.com)**
+For inquiries, support, or feedback, please contact **Srishti Singh** at:  
+📧 **[singhsrishti01032005@gmail.com](mailto:singhsrishti01032005@gmail.com)**
 
 Stay fit, stay strong, and keep pushing your limits with **FiteX**! 💪
