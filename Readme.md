@@ -46,8 +46,6 @@ FiteX is a modern fitness application designed to help users achieve their healt
 ### Login  
 <img src="./images/login.jpeg" alt="Login" width="300" />  
 
-### Dashboard  
-<img src="./images/dashboard.jpeg" alt="Dashboard" width="300" />  
 
 ### Activity Heatmap  
 <img src="./images/activity.jpeg" alt="Activity Heatmap" width="300" />  
